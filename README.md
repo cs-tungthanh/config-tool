@@ -8,9 +8,12 @@
 
 
 ### Tmux
-`curl -o ~/.tmux.conf ...`
+`curl -o ~/.tmux.conf https://raw.githubusercontent.com/cs-tungthanh/config-tool/main/tmux.conf`
 
 
 ### Vimrc
 
-`curl -o ~/.vimrc ...`
+`curl -o ~/.vimrc https://raw.githubusercontent.com/cs-tungthanh/config-tool/main/vimrc.conf`
+
+### ZSH THEME
+`curl -o ~/.oh-my-zsh/themes/myTheme.zsh-theme https://raw.githubusercontent.com/cs-tungthanh/config-tool/main/myTheme`
