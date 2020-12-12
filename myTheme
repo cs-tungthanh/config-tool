@@ -11,8 +11,8 @@ ZSH_THEME_GIT_PROMPT_CLEAN="✨"
 
 # define $(git_prompt_status)
 ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[green]%} 𝕌?"
-ZSH_THEME_GIT_PROMPT_ADDED="%{$fg[cyan]%} 𝔸✈%"
-ZSH_THEME_GIT_PROMPT_MODIFIED="%{$fg[yellow]%} 𝕄 ꙰	"
+ZSH_THEME_GIT_PROMPT_ADDED="%{$fg[cyan]%} 𝔸✈"
+ZSH_THEME_GIT_PROMPT_MODIFIED="%{$fg[yellow]%} 𝕄*"
 ZSH_THEME_GIT_PROMPT_DELETED="%{$fg[red]%} 𝔻✗"
 ZSH_THEME_GIT_PROMPT_UNMERGED="%{$fg[magenta]%} ℂ😱"
 ZSH_THEME_GIT_PROMPT_RENAMED="%{$fg[blue]%} ➦"
