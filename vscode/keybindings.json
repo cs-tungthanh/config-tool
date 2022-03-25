@@ -1,6 +1,6 @@
-// Place your key bindings in this file to override the defaultsauto[]
+// This setting is used for MacOS
 // Add selection To Next Find Match: Cmd + D
-// Copy line down: Cmd + Shift + C  
+// Copy line down: Cmd + Shift + C
 [
     {
         "key": "shift+cmd+l",
@@ -31,5 +31,13 @@
         "key": "shift+cmd+c",
         "command": "-workbench.action.terminal.openNativeConsole",
         "when": "!terminalFocus"
+    },
+    {
+        "key": "cmd+e",
+        "command": "-actions.findWithSelection"
+    },
+    {
+        "key": "cmd+e",
+        "command": "workbench.action.quickOpen"
     }
 ]
