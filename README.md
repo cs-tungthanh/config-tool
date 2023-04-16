@@ -20,7 +20,9 @@ plugins=(z git zsh-autosuggestions zsh-syntax-highlighting)
 ---
 ## ZSH THEME
 ```bash 
-curl -o ~/.oh-my-zsh/themes/myTheme.zsh-theme https://raw.githubusercontent.com/cs-tungthanh/config-tool/main/myTheme
+curl -o ~/.oh-my-zsh/themes/myTheme.zsh-theme https://raw.githubusercontent.com/cs-tungthanh/config-tool/main/myTheme.zsh-theme
+
+curl -o ~/.oh-my-zsh/themes/myTheme.zsh-theme https://raw.githubusercontent.com/cs-tungthanh/config-tool/main/git-custom-theme.zsh-theme
 ```
 
 -  Change `ZSH_THEME` in `.zshrc` file:
